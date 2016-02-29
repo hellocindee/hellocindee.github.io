@@ -1,4 +1,17 @@
 h1 {
-  color:blue;
+  color:magenta;
   font-family:monospace;
+}
+
+a:link {
+  text-decoration-style: dotted;
+  color:#E238EC;
+}
+
+a:hover {
+  color:#00FF00;
+}
+
+a:visited {
+  color:#AFDCEC;
 }
