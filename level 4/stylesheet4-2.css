@@ -1,0 +1,17 @@
+p {
+ border: 5px solid red ;
+  }
+
+h1 {
+  color:pink
+}
+
+h3 {
+  color: blue;
+}
+
+h4 {
+  color: orange;
+  font-family: verdana;
+  font-size: 50px;
+}

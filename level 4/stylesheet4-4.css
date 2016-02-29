@@ -1,0 +1,25 @@
+p {
+ border: 10px solid magenta;
+  }
+
+h1 {
+  color:pink;
+  font-size:70px;
+  font-family: monospace;
+
+}
+
+h2 {
+  color:blue;
+  font-size: 60px;
+  font-family: monospace;
+}
+h3 {
+  color: red;
+}
+
+h4 {
+  color: purple;
+  font-family: cursive;
+  font-size: 40px;
+}

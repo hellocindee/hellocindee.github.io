@@ -1,0 +1,15 @@
+h1 {
+color:green;
+size: 10px;
+}
+
+h3 {
+  color: magenta;
+  size: 6px;
+}
+
+h3
+{
+  color: orange;
+  font-family:cursive;
+}
