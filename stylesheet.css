@@ -1,6 +1,12 @@
 h1 {
-  color:magenta;
-  font-family:monospace;
+  color:black;
+  font-family:sans;
+}
+
+p {
+  color:black;
+  size: 20px;
+
 }
 
 a:link {
@@ -9,9 +15,9 @@ decoration: dotted;
 }
 
 a:hover {
-  color:#00FF00;
+  color:pink;
 }
 
 a:visited {
-  color:#48CCCD;
+  color:#black;
 }
