@@ -30,6 +30,13 @@ h1 {
     size: 90px;
 }
 
+h3 {
+  color: white;
+  size: 40px;
+  border: 10px,10px,10px,10px;
+  text-align: left;
+}
+
 a {
     color: #ffc0cb;
     text-decoration: none;
@@ -46,6 +53,12 @@ a:hover {
     border-width: thick;
 }
 
+.firstparagraph {
+color:black;
+weight: bold;
+size: 40px;
+
+}
 /* Header + Navigation */
 header {
     width: 100%;
@@ -332,4 +345,3 @@ body {
     background-color: #f8f8f8;
     resize: none;
 }
-/*scroll image */
